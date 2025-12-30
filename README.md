@@ -1,5 +1,7 @@
 # 🛍️ ApniWish – Universal Wishlist Browser Extension
 
+![ApniWish Demo](assets/demo.gif)
+
 **ApniWish** is a smart browser extension that lets you save products from multiple e-commerce platforms into **one unified wishlist**.  
 No more switching between Amazon, Flipkart, Meesho, Ajio, or Myntra — everything you want to buy is managed in **one place**.
 
