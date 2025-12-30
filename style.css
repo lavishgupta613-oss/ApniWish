@@ -1,0 +1,35 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 300px;
+  padding: 10px;
+}
+
+.item {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
+
+img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+.title {
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.price {
+  color: green;
+  font-size: 13px;
+}
+
+button {
+  background: black;
+  color: yellow;
+  border: none;
+  padding: 4px 6px;
+  cursor: pointer;
+}

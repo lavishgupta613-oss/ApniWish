@@ -1,0 +1,47 @@
+{
+  "manifest_version": 3,
+  "name": "ApniWish",
+  "version": "1.2",
+  "description": "Save products from Flipkart, Amazon, Myntra, Meesho & AJIO to your personal ApniWish list.",
+
+  "permissions": ["storage", "tabs"],
+
+  "host_permissions": [
+    "https://www.flipkart.com/*",
+    "https://www.amazon.in/*",
+    "https://www.amazon.com/*",
+    "https://www.myntra.com/*",
+    "https://www.meesho.com/*",
+    "https://www.ajio.com/*"
+  ],
+
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "https://www.flipkart.com/*",
+        "https://www.amazon.in/*",
+        "https://www.amazon.com/*",
+        "https://www.myntra.com/*",
+        "https://www.meesho.com/*",
+        "https://www.ajio.com/*"
+      ],
+      "js": ["content.js"]
+    }
+  ],
+
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "ApniWish",
+    "default_icon": {
+      "16": "icons/icon16.png",
+      "48": "icons/icon48.png",
+      "128": "icons/icon128.png"
+    }
+  }
+}
