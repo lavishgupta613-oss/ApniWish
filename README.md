@@ -71,6 +71,12 @@ No more switching between Amazon, Flipkart, Meesho, Ajio, or Myntra — everythi
 
 ```text
 ApniWish/
+│── assets/
+│   ├── demo.gif
+│   ├── add-button.png
+│   ├── popup.png
+│   ├── wishlist-page.png
+│   └── filter.png
 │── manifest.json
 │── background.js
 │── content.js
