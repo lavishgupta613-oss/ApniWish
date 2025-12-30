@@ -49,3 +49,20 @@ No more switching between Amazon, Flipkart, Meesho, Ajio, or Myntra — everythi
 - **Chrome Extension APIs**
 
 ---
+
+## 📂 Project Structure
+
+```text
+ApniWish/
+│── manifest.json
+│── background.js
+│── content.js
+│── apniwish.html
+│── apniwish.css
+│── apniwish.js
+│── popup.html
+│── popup.css
+│── popup.js
+│── style.css
+│── icon/
+│── README.md
