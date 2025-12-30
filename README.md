@@ -89,3 +89,73 @@ ApniWish/
 │── style.css
 │── icon/
 │── README.md
+
+```
+
+## ⬇️ Download & Installation
+
+Follow these steps to install **ApniWish** locally in Chrome:
+
+### Step 1: Download the Extension
+- Go to the GitHub repository
+- Click on **Code**
+- Select **Download ZIP**
+- Extract the ZIP file on your system
+
+### Step 2: Open Chrome Extensions Page
+- Open Google Chrome
+- Go to: chrome://extensions/
+
+### Step 3: Enable Developer Mode
+- Turn ON **Developer Mode** (top-right corner)
+
+### Step 4: Load the Extension
+- Click on **Load unpacked**
+- Select the extracted **ApniWish** folder
+
+✅ ApniWish will now appear in your Chrome extensions list
+
+---
+
+### Step 5: Use ApniWish
+- Open any product page on **Amazon, Flipkart, Meesho, Ajio, or Myntra**
+- Click **Add to ApniWish** near the product title
+- Open the extension to view your saved products
+
+
+## 🔮 Upcoming Features & Enhancements
+
+ApniWish is actively evolving to provide a smoother and more powerful wishlist experience.  
+Below are the planned upgrades currently in progress:
+
+### 🚀 Browser Expansion
+- **Microsoft Edge support** is coming soon  
+  - The extension is currently **under review** on the Microsoft Edge Add-ons Store  
+  - It will be available for Edge users shortly after approval
+
+### ☁️ Cloud & Sync
+- Cloud-based synchronization to access your wishlist across multiple devices
+- Secure storage for saved products
+
+### 🔔 Smart Notifications
+- Price drop alerts for saved products
+- Notifications for discounts and offers
+
+### ❤️ Wishlist Enhancements
+- Favorite and priority marking for important products
+- Improved sorting and filtering options
+- Multiple wishlists for different categories (e.g., Electronics, Fashion)
+
+### 🌙 UI & Experience
+- Dark mode support
+- Improved UI animations and performance
+- Better mobile and tablet compatibility
+
+### 📦 Platform Expansion
+- Support for more e-commerce platforms in future updates
+- Enhanced product detection accuracy
+
+---
+
+> ✨ These updates aim to make ApniWish a complete, cross-platform wishlist solution for smarter online shopping.
+
