@@ -43,6 +43,21 @@ No more switching between Amazon, Flipkart, Meesho, Ajio, or Myntra — everythi
 
 ---
 
+## 📸 Screenshots
+
+### ➕ Add Product from Product Page
+![Add Button](assets/add-button.png)
+
+### 🧾 Extension Popup
+![Popup](assets/popup.png)
+
+### 📄 Full Wishlist Page
+![Wishlist Page](assets/wishlist-page.png)
+
+### 🔍 Platform Filter
+![Filter](assets/filter.png)
+
+
 ## 🛠 Tech Stack
 
 - **HTML**
