@@ -90,31 +90,62 @@ ApniWish/
 │── icon/
 │── README.md
 
+
+
+
 ```
 
-## ⬇️ Download & Installation
+## 👥 For Users
 
-Follow these steps to install **ApniWish** locally in Chrome:
+### 🟢 Microsoft Edge (Official & Recommended)
 
-### Step 1: Download the Extension
+ApniWish is **officially available** on the **Microsoft Edge Add-ons Store**.
+
+**How to install on Microsoft Edge:**
+1. Open **Microsoft Edge**
+2. Visit the **Microsoft Edge Add-ons Store**
+3. Search for **ApniWish**
+4. Click **Get**
+5. Confirm the installation
+
+✅ Automatic updates  
+✅ No developer mode required  
+✅ Verified by Microsoft  
+
+---
+
+### 🟡 Google Chrome (Manual Installation)
+
+Chrome users can install it manually using **Developer Mode**.
+
+**How to install on Google Chrome:**
+
+**Step 1: Download the Extension**
 - Go to the GitHub repository
 - Click on **Code**
 - Select **Download ZIP**
 - Extract the ZIP file on your system
 
-### Step 2: Open Chrome Extensions Page
+**Step 2: Open Chrome Extensions Page**
 - Open Google Chrome
-- Go to: chrome://extensions/
+- Go to: `chrome://extensions/`
 
-### Step 3: Enable Developer Mode
+**Step 3: Enable Developer Mode**
 - Turn ON **Developer Mode** (top-right corner)
 
-### Step 4: Load the Extension
+**Step 4: Load the Extension**
 - Click on **Load unpacked**
 - Select the extracted **ApniWish** folder
 
 ✅ ApniWish will now appear in your Chrome extensions list
 
+---
+
+### 📌 Usage (All Browsers)
+
+- Open any product page on **Amazon, Flipkart, Meesho, Ajio, or Myntra**
+- Click **Add to ApniWish** near the product title
+- Open the extension to view your saved products
 ---
 
 ### Step 5: Use ApniWish
@@ -127,11 +158,6 @@ Follow these steps to install **ApniWish** locally in Chrome:
 
 ApniWish is actively evolving to provide a smoother and more powerful wishlist experience.  
 Below are the planned upgrades currently in progress:
-
-### 🚀 Browser Expansion
-- **Microsoft Edge support** is coming soon  
-  - The extension is currently **under review** on the Microsoft Edge Add-ons Store  
-  - It will be available for Edge users shortly after approval
 
 ### ☁️ Cloud & Sync
 - Cloud-based synchronization to access your wishlist across multiple devices
